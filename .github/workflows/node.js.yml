@@ -5,7 +5,7 @@ name: Node.js CI
 
 on:
   schedule:
-  - cron:  '59 8,20 * * *'
+  - cron:  '16 1,13 * * *'
 
 jobs:
   build:
