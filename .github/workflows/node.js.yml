@@ -4,8 +4,13 @@
 name: Node.js CI
 
 on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
   schedule:
-  - cron:  '16 1,13 * * *'
+    - cron: '23 13 * * *' #UTC时间，往前推8个小时
 
 jobs:
   build:
