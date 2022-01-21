@@ -2,7 +2,6 @@
 
 - 😎 一名WEB工作者，用耳熟能详的前端技术快乐的构建应用程序，专注探索低代码。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究技术。总是致力于建造和学习新东西。
-- 💬 可以加我的微信号 `bsie404`
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -21,3 +20,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack"></code>
+
+
+#### 其他
+![](https://img.shields.io/badge/bsie404-07C160?style=flat-square&logo=WeChat&logoColor=ffffff)
+![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
+![](https://komarev.com/ghpvc/?username=yanghuanrong) 
+
+
