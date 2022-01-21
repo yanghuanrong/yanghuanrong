@@ -36,5 +36,5 @@ jobs:
           git config --global user.email "1176989241@qq.com"
           git config --global user.name "yanghuanrong"
           git add -A
-          git commit -m "feat: one" || exit 
+          git commit -m "🏹 update one" || exit 
           git push
