@@ -1,0 +1,27 @@
+{
+  "name": "yanghuanrong",
+  "version": "1.0.0",
+  "description": "- 😎 一名WEB工作者，用耳熟能详的前端技术快乐的构建应用程序，专注探索低代码。\r - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究技术。总是致力于建造和学习新东西。",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "ejs": "^3.1.6",
+    "fs-extra": "^10.0.0",
+    "superagent": "^7.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanghuanrong/yanghuanrong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanghuanrong/yanghuanrong/issues"
+  },
+  "homepage": "https://github.com/yanghuanrong/yanghuanrong#readme"
+}

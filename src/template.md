@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端技术快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新东西。
-- ✨ 在青年时期，人有虚荣心和野心是很正常的。成熟的标志是自我认识，认清了自己的天赋方向，于是外在的虚荣心和野心被内在的目标取代。
+- ✨ <%= one %>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 2022/1/21下午8:31:13</code>
+<code  align="right">update: <%= time %></code>
