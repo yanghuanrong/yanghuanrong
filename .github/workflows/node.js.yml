@@ -8,7 +8,7 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    - cron: '50 13 * * *' #UTC时间，往前推8个小时
+    - cron:  '0 */6 * * *'  # 每6小时运行一次
 
 jobs:
   build:
@@ -28,3 +28,12 @@ jobs:
           cache: 'npm'
       - run: npm install
       - run: npm run build
+
+      - name: Commit and push if changed   # 将README.md更新到仓库
+      run: |
+        git diff
+        git config --global user.email "1176989241@qq.com"
+        git config --global user.name "yanghuanrong"
+        git add -A
+        git commit -m "feat: one" || exit 
+        git push
