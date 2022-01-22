@@ -22,7 +22,7 @@ jobs:
     steps:
       - name: Set time zone
         run: sudo timedatectl set-timezone 'Asia/Shanghai'
-        
+
       - uses: actions/checkout@v2
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v2
@@ -40,4 +40,4 @@ jobs:
           git config --global user.name "yanghuanrong"
           git add -A
           git commit -m "feat: update" || exit 
-          git push
+          git push -f
