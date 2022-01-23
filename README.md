@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人的爱情是一种积极的力量，这种力量可以冲破人与人之间的高墙并使人与人结合。爱情可以使人克服孤寂和与世隔绝感，但同时又使人保持对自己的忠诚，保持自己的完整性和本来的面貌。
+- ✨ 没有歧视和偏见的世界，那只是想象中的产物。人类就是需要跟那样的东西相伴的生物。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 1/23/2022, 2:11:41 AM</code>
+<code  align="right">update: 1/23/2022, 8:38:30 AM</code>
