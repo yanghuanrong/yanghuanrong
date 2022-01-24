@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 没有歧视和偏见的世界，那只是想象中的产物。人类就是需要跟那样的东西相伴的生物。
+- ✨ 有时候，只要把心胸敞开，快乐也会逼人而来。这个世界，这个人生，有其丑恶的一面，也有其光明的一面。良辰美景，赏心乐事，随处皆是。智者乐水，仁者乐山。雨有雨的趣，晴有晴的妙，小鸟跳跃啄食，猫狗饱食酣睡，哪一样不令人看了觉得快乐？
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 1/24/2022, 2:11:40 AM</code>
+<code  align="right">update: 1/24/2022, 8:38:28 AM</code>
