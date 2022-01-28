@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 真正悲伤过的人都是心存善念的。
+- ✨ 你有点喜欢我，我也有点喜欢你，这是真的。我们就好好的把这点‘喜欢’留在心头，将来也有个好见面的日子。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 1/28/2022, 2:13:02 AM</code>
+<code  align="right">update: 1/28/2022, 8:38:57 AM</code>
