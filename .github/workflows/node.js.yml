@@ -8,8 +8,7 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *' # 每6小时运行一次
-
+    - cron: '0 1 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
