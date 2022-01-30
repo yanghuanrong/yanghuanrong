@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 如果再把眼光放得更远，让思虑钻得更深，则眼前到处是看不见的陷阱。
+- ✨ 我拿本书，在长椅上晒太阳，心变得软软的，容易流泪，像个多愁善感的老头。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 1/30/2022, 12:15:24 AM</code>
+<code  align="right">update: 1/30/2022, 8:41:11 AM</code>
