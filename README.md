@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ “妨碍幸福本身的，正是回忆曾经的幸福。”
+- ✨ 透过美丽的大自然、幻想和音乐，我们知道了生活美好的一面；可是透过现实，我们知道的却是生活残酷的一面。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 2/3/2022, 12:16:19 AM</code>
+<code  align="right">update: 2/3/2022, 8:40:19 AM</code>
