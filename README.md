@@ -2,10 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 绿蚁新醅酒，
-红泥小火炉。
-晚来天欲雪，
-能饮一杯无？
+- ✨ 古之成大事者，不惟有超世之才，亦有坚忍不拔之志。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 2/7/2022, 12:15:09 AM</code>
+<code  align="right">update: 2/7/2022, 8:41:57 AM</code>
