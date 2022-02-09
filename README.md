@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 书上说最好的爱情，不是互相嫌弃，而是发现彼此的缺点，然后一起克服，一同进步。
+- ✨ 人生最可乐的就是活动所生的感觉，就是奋斗成功而得的快慰。世界既完美，我们如何能尝创造成功的快慰？这个世界之所以美满，就在有缺陷，就在有希望的机会，有想像的田地。换句话说，世界有缺陷，可能性才大。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 2/9/2022, 12:16:25 AM</code>
+<code  align="right">update: 2/9/2022, 8:44:53 AM</code>
