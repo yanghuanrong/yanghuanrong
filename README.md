@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 他的出现是为了带你到某个地方，那里有不一样的风景，你会看见命运，看见你自己。
+- ✨ 我也不能不去上班，走到灰色的人群里去，一路走一路想入非非：活着成为一只猪和死掉，也不知哪个更可怕。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 2/17/2022, 12:14:49 AM</code>
+<code  align="right">update: 2/17/2022, 8:39:51 AM</code>
