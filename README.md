@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生活中的痛苦，我们彼此给予又彼此治愈，感谢我们自己，千辛万苦，春短秋长，那么认真地，生活着。
+- ✨ 规矩虽然很重要，但当大家都默契地无视规矩的时候，你太较真，反而会受排挤。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 2/19/2022, 12:16:12 AM</code>
+<code  align="right">update: 2/19/2022, 8:48:10 AM</code>
