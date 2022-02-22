@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 火这东西么，形体是自由的。因为自由，看的一方就可以随心所欲看成任何东西。假如你看火看出幽幽的情思，那么就是你心中的幽思反映在了火里。
+- ✨ 善意是我活下去，并且争取好好活下去的动力。比起恶意地看世界，善意地看世界其实要困难得多。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 2/22/2022, 12:16:24 AM</code>
+<code  align="right">update: 2/22/2022, 8:45:16 AM</code>
