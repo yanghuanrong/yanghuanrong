@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 能用吵架解决的问题，千万别藏在心里；
-能发泄出来的情绪，千万别把它当真。
+- ✨ 你总是关心别人几岁。人重要的不是年龄，而是经历，有的人活到一百岁也没经历过什么事。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -29,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 2/25/2022, 12:16:35 AM</code>
+<code  align="right">update: 2/25/2022, 8:50:07 AM</code>
