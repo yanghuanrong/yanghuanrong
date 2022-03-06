@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生活又一天一天往下过。日常生活有着极强的消化能力，它消化坏事情，也消化好事情。它将坏事情和好事情都吞噬了，一如既往地向下流淌。
+- ✨ 为了我这短促的不久的生，我越求生得厉害；不是我怕死，是我总觉得我还没享有我生的一切。我要，我要使我快乐。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 3/5/2022, 9:48:12 AM</code>
+<code  align="right">update: 3/6/2022, 9:47:18 AM</code>
