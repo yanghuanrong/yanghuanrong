@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 为了我这短促的不久的生，我越求生得厉害；不是我怕死，是我总觉得我还没享有我生的一切。我要，我要使我快乐。
+- ✨ 诗人有时塑造悲剧，而人生则是千百次地塑造悲剧，上面这出悲剧在一切悲剧中最为气势磅礴，宏伟绝伦。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 3/6/2022, 9:47:18 AM</code>
+<code  align="right">update: 3/7/2022, 9:51:01 AM</code>
