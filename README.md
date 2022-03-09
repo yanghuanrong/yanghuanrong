@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 爱是浓烈，爱是淡然，爱是巨浪，爱是暗涌，爱是奋不顾身，爱是瞻前顾后，爱是每天说爱你，爱是从不说爱你，爱是你满世界疯狂找那个人的消息，爱是你不愿看那个人的任何消息，爱可能是任何样子，不要让死板的句子成为你人生的标尺。
+- ✨ 世界是处在干净与肮脏之间的永恒的现实，人心也可以这样大致去加以分析。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 3/8/2022, 9:49:11 AM</code>
+<code  align="right">update: 3/9/2022, 9:52:22 AM</code>
