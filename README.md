@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 世界是处在干净与肮脏之间的永恒的现实，人心也可以这样大致去加以分析。
+- ✨ 人只能一直朝前走，不能回头看，否则就会像我一样，在某个长大成人的清晨，坐在电脑前写下这些文字并默默地想：再见啦，少年。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 3/9/2022, 9:52:22 AM</code>
+<code  align="right">update: 3/10/2022, 9:58:31 AM</code>
