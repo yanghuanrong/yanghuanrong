@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 生活它不是深渊，它是你走过的平原和你想登上的高山，它就像我们睡过的每一张床，你从来不会陷下去，也许它不属于我们，但它一定属于你，你觉得它往下，是因为引力，它绝不会把你拖下深渊，它只想让你伏在地上，听听它的声音，当你休息好了，听够了，你随时可以站起来。你懂么？
+- ✨ 人生只有少数几件事是值得珍惜的——生命、自由、思想的权利。还有，那就是亲情、友情和真挚的爱情……
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 3/29/2022, 10:10:41 AM</code>
+<code  align="right">update: 3/30/2022, 10:11:42 AM</code>
