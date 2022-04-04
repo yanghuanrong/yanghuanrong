@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 承认自己的脆弱并不丢人，会有意想不到的东西从脆弱的地方生长出来。
+- ✨ 孤独不是一个人的静默，是别人的寻常里，你的无所适从。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 4/3/2022, 10:10:47 AM</code>
+<code  align="right">update: 4/4/2022, 10:16:21 AM</code>
