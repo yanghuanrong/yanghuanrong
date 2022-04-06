@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们来过，就该留下一些什么，让这短暂而渺小的一生对得起自己的内心。
+- ✨ 过往的生活教会我的东西最重要的一件便是对于事情变坏的敏锐嗅觉，每当一件事情变好，我会怀疑是不是有什么坏东西正在悄无声息地靠近，好像有句话叫：上帝关上了一扇门，一定会为你打开一扇窗。这句话在我的脑海中变成：上帝为你打开一扇窗，一定会为你关上一扇门。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 4/5/2022, 10:09:05 AM</code>
+<code  align="right">update: 4/6/2022, 10:10:28 AM</code>
