@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 记忆有时成了我最珍贵的情感资产之一，也成了我活下去的寄托，就像躲在外套大口袋里熟睡的、暖乎乎的小猫。
+- ✨ 愤怒并不是一种完全负面的情绪，愤怒是人类的本能，三个月大的婴儿已经会表达愤怒，适当合理的情绪输出对人的身心健康非常重要。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 4/12/2022, 10:14:51 AM</code>
+<code  align="right">update: 4/13/2022, 10:19:52 AM</code>
