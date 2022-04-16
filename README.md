@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 想要世界变成什么，你先要变成什么。这才是你能带来的改变。
+- ✨ 没有人可以去爱的时候，我们会变得古怪；而新感情到来时，旧感情总是在一段时间内挥之不去。人就是这样。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 4/15/2022, 10:28:33 AM</code>
+<code  align="right">update: 4/16/2022, 10:05:51 AM</code>
