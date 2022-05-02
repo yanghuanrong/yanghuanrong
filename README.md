@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 五月，或者六月，某一天，群山间突然就会响起了布谷鸟的鸣叫。那声音被温暖湿润的风播送着，明净，悠远，陡然将盘曲的山谷都变得幽深宽广了。
+- ✨ 一个安心的人在哪都可以过自得其乐的生活，抱着振奋乐观的思想，如同居住在皇宫一般。犯不着千辛万苦求新，无论衣服还是朋友。把旧的翻新，回到它们中去。万事万物没有变，是我们在变。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 5/1/2022, 10:56:04 AM</code>
+<code  align="right">update: 5/2/2022, 10:58:07 AM</code>
