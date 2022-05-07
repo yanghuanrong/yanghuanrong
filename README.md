@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 要做这样的女子：面若桃花、心深似海、冷暖自知、真诚善良、触觉敏锐、情感丰富、坚忍独立、缱绻决绝。坚持读书、写字、听歌、旅行、上网、摄影，有时唱歌、跳舞、打扫、烹饪、约会、狂欢。
+- ✨ 保持身体健康的唯一办法，就是吃点你不想吃的，喝点你不想喝的，以及做点你不愿做的事情。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 5/6/2022, 10:17:31 AM</code>
+<code  align="right">update: 5/7/2022, 10:12:16 AM</code>
