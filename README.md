@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 接纳，然后采取行动。不管当下时刻的情况怎样，心甘情愿地接受它，就像它是你选择的一样。总是与它共事，而不是抗拒它，使它成为你的朋友和盟友而不是敌人。这将会不可思议地改变你的整个生活。
+- ✨ 我们希望保持一种非功利的兴趣：对世界的丰富性、复杂性本身充满兴趣，真诚地渴望理解他人的经验。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 5/10/2022, 10:00:33 AM</code>
+<code  align="right">update: 5/11/2022, 10:30:42 AM</code>
