@@ -2,7 +2,11 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 简洁是智慧的灵魂，冗长是肤浅的藻饰。
+- ✨ 我发现，我能够成功的唯一途径将是：
+1.找到与我观点不同的最聪明的人，以便自己能够努力理解他们的推理。
+2.知道自己在什么时候不能有明确的意见，不急于下结论。
+3.逐步归纳永恒和普适的原则，对其进行测试，将其系统化。
+4.通过平衡风险来保持较大的回报，并降低下行波动。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +32,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 5/17/2022, 10:33:31 AM</code>
+<code  align="right">update: 5/18/2022, 10:22:54 AM</code>
