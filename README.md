@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们所要做的事，应当一想到就做。
-因为人的想法是会变化的，有多少舌头、多少手、多少意外，就会有多少犹豫、多少延迟。
+- ✨ 这个世界上虽有许多人可以告诉我们远处美丽的风景，却没有一个人能代替我们走茫茫的夜路。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -29,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 5/25/2022, 10:34:20 AM</code>
+<code  align="right">update: 5/26/2022, 10:37:48 AM</code>
