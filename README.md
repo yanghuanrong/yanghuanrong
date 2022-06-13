@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我们平凡普通，默默无闻，虽然我们努力生活。我们去爱，我们忍受苦难，但没人对我们感兴趣，书中也不会写到我们。普罗大众，数不清的人。
+- ✨ “如果你一直这么脆弱敏感，会非常辛苦。现实不会搞垮你，但你自己会，你知道吗？”
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 6/12/2022, 10:39:28 AM</code>
+<code  align="right">update: 6/13/2022, 10:38:57 AM</code>
