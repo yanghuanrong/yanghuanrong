@@ -2,10 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 白日的时光静寂缓慢，
-我们注视着前方，努力不使之偏向，
-就像夏日的红玫瑰逐日盛开，
-时光寂静流逝，永不复返。
+- ✨ 一个人快乐或悲伤，只要不是装出来的，就必有其道理。你可以去分享他的快乐，同情他的悲伤，却不可以命令他怎样怎样，因为这是违背人类的天性的。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -31,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 6/25/2022, 10:43:11 AM</code>
+<code  align="right">update: 6/26/2022, 10:51:40 AM</code>
