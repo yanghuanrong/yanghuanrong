@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 青年人似乎成了一场阴谋的受害者：他们读的书都是经过筛选而留存的，描绘的尽是理想和完美；他们的长辈早已健忘，如今总是透过一层玫瑰色的雾霭回望，之间的对话也深刻影响了他们的思想。所有这一切都使他们怀抱浪漫的心理进入了一片现实残酷的世界。
+- ✨ 散伙是人生常态，我们又不是什么例外。
+只是我偶尔会想，假如那天真能重来一次，应该过得再庄严一点，正式地吃一顿饭，拍一张照片，好好看着对方的眼睛说声永别。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +29,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 7/3/2022, 10:43:09 AM</code>
+<code  align="right">update: 7/4/2022, 10:56:52 AM</code>
