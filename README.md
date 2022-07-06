@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 所谓幸福，或许指的便是明明置身幸福却对幸福恍若不觉，就这样在琐碎无害的牢骚中度过平凡的每一天。
+- ✨ 把你的人生想成一幅画。世界上什么都有，但你想画什么就是自己决定的了。你要选美好漂亮的事物入画，丑陋的就别费笔墨了。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 7/5/2022, 10:51:22 AM</code>
+<code  align="right">update: 7/6/2022, 10:56:44 AM</code>
