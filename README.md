@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 在此郑重邀请你，把握有限的今生，先一起耸耸肩，挺这个既优秀又普通的自己一把吧，那些需要努力的事，反正放一阵也不会有人偷做了去。
+- ✨ 希望你对我是偏爱的，而爱着你时，我不会羡慕任何人。 爱情就是一起在庸碌的生活夹缝里找糖，让琐事日常也能闪闪发光。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 7/7/2022, 10:56:41 AM</code>
+<code  align="right">update: 7/8/2022, 10:50:43 AM</code>
