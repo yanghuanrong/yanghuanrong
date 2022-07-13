@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 我只知道这是一个急躁而喧嚣的时代，我们就像住在一个闹腾腾的房子里，每一个人都放大了喉咙喊叫。为了让他们听到我说的话，我只好比他们还大声。于是没有任何一个人知道别人到底在讲什么。
+- ✨ 两个人彼此靠近总需要超越某种相异性，而拥抱的一瞬之所以醉人就因为它只能是一瞬的时间。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 7/12/2022, 10:57:24 AM</code>
+<code  align="right">update: 7/13/2022, 10:51:38 AM</code>
