@@ -2,7 +2,8 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 两个人彼此靠近总需要超越某种相异性，而拥抱的一瞬之所以醉人就因为它只能是一瞬的时间。
+- ✨ 人跟人，太近了固然不好，太远了，也不好。
+就像你看一幅画，太近了变形，太远了模糊，不远不近，才能看出明暗虚实来。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +29,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 7/13/2022, 10:51:38 AM</code>
+<code  align="right">update: 7/14/2022, 10:56:02 AM</code>
