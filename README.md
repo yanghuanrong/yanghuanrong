@@ -2,8 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 人跟人，太近了固然不好，太远了，也不好。
-就像你看一幅画，太近了变形，太远了模糊，不远不近，才能看出明暗虚实来。
+- ✨ 为你浪费的时间比其他时间都好，都更像时间。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -29,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 7/14/2022, 10:56:02 AM</code>
+<code  align="right">update: 7/15/2022, 11:01:28 AM</code>
