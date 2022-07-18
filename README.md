@@ -2,9 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 挨了骂，
-哇的一声就哭出来的儿童的心情；
-我也想要有那种心情。
+- ✨ 谁终将声震人间，必长久深自缄默。谁终将点燃闪电，必长久如云漂泊。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -30,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 7/17/2022, 10:56:30 AM</code>
+<code  align="right">update: 7/18/2022, 10:49:58 AM</code>
