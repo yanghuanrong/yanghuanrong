@@ -2,7 +2,7 @@
 
 - 🧙‍♂️ 一名WEB法师，用耳熟能详的前端魔法快乐的构建应用程序。
 - 💻 每天早上起床，在Wechat, QQ上和朋友们一起探讨和研究学术。总是致力于建造和学习新的魔法。
-- ✨ 童年回忆像春日里的小雨，淅淅沥沥，落地会生根，印迹也许不深，却是另一种意味。偶尔触到某个点，一连串地忆起，犹如雨水在地上掀起一圈圈涟漪。
+- ✨ 你就是你的好恶，为偏心而奋斗终生。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yanghuanrong&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 ![](https://komarev.com/ghpvc/?username=yanghuanrong)
 
-<code  align="right">update: 7/21/2022, 10:53:28 AM</code>
+<code  align="right">update: 7/22/2022, 10:54:22 AM</code>
